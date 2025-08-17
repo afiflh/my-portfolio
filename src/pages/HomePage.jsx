@@ -32,9 +32,9 @@ const HomePage = ({ setCurrentPage }) => {
         <div className="grid lg:grid-cols-2 gap-12 items-center min-h-[80vh] mb-12">
           <div className="space-y-8">
             <div className="space-y-4 justify-center">
-              <h1 className="lg:text-5xl font-bold text-gray-900 leading-tight mb-10 text-center">
-                Frontend Development & <br />
-                <span className="">Design UI/UX</span>
+              <h1 className="lg:text-5xl font-bold text-gray-900 leading-tight mb-10 text-left">
+                Frontend Development<br />
+                <span className="text-3xl"> & Content Creation Enthusiast</span>
               </h1>
               <p className="text-sm text-left text-gray-600 leading-relaxed max-w-lg">
                 Hi, I'm <strong className="font-medium text-gray-600">Afif Lukmanul Hakim</strong>. 
