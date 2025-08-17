@@ -48,7 +48,7 @@ const ContactPage = ({ setCurrentPage }) => {
                   </div>
                 </a>
                 <a
-                  href="https://wa.me/6281234567890"
+                  href="https://wa.me/6281216919583"
                   className="group flex items-center space-x-4 p-6 border border-gray-200 rounded-lg hover:border-gray-300 transition-colors bg-[#C8FF93]"
                 >
                   <div className="flex-shrink-0">
